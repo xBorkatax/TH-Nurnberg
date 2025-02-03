@@ -1,0 +1,15 @@
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe10\bin\Debug\net8.0\Aufgabe10.exe
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe10\bin\Debug\net8.0\Aufgabe10.deps.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe10\bin\Debug\net8.0\Aufgabe10.runtimeconfig.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe10\bin\Debug\net8.0\Aufgabe10.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe10\bin\Debug\net8.0\Aufgabe10.pdb
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe10\obj\Debug\net8.0\Aufgabe10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe10\obj\Debug\net8.0\Aufgabe10.AssemblyInfoInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe10\obj\Debug\net8.0\Aufgabe10.AssemblyInfo.cs
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe10\obj\Debug\net8.0\Aufgabe10.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe10\obj\Debug\net8.0\Aufgabe10.sourcelink.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe10\obj\Debug\net8.0\Aufgabe10.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe10\obj\Debug\net8.0\refint\Aufgabe10.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe10\obj\Debug\net8.0\Aufgabe10.pdb
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe10\obj\Debug\net8.0\Aufgabe10.genruntimeconfig.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe10\obj\Debug\net8.0\ref\Aufgabe10.dll

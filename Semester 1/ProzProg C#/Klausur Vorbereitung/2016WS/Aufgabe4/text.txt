@@ -1,0 +1,9 @@
+﻿#Unit 1 Hello
+Let's start|Lass(t) uns anfangen
+let's|lass(t) uns
+to let|lassen
+us|uns
+#Friends
+friend|Freund
+Look|Schaut!
+to look|(aus)sehen, schauen

@@ -1,0 +1,14 @@
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_8.2\bin\Debug\net8.0\Aufgabe_8.2.exe
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_8.2\bin\Debug\net8.0\Aufgabe_8.2.deps.json
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_8.2\bin\Debug\net8.0\Aufgabe_8.2.runtimeconfig.json
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_8.2\bin\Debug\net8.0\Aufgabe_8.2.dll
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_8.2\bin\Debug\net8.0\Aufgabe_8.2.pdb
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_8.2\obj\Debug\net8.0\Aufgabe_8.2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_8.2\obj\Debug\net8.0\Aufgabe_8.2.AssemblyInfoInputs.cache
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_8.2\obj\Debug\net8.0\Aufgabe_8.2.AssemblyInfo.cs
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_8.2\obj\Debug\net8.0\Aufgabe_8.2.csproj.CoreCompileInputs.cache
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_8.2\obj\Debug\net8.0\Aufgabe_8.2.dll
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_8.2\obj\Debug\net8.0\refint\Aufgabe_8.2.dll
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_8.2\obj\Debug\net8.0\Aufgabe_8.2.pdb
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_8.2\obj\Debug\net8.0\Aufgabe_8.2.genruntimeconfig.cache
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_8.2\obj\Debug\net8.0\ref\Aufgabe_8.2.dll

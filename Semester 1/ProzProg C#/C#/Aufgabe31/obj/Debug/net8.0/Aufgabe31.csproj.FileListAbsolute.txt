@@ -1,0 +1,15 @@
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe31\bin\Debug\net8.0\Aufgabe31.exe
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe31\bin\Debug\net8.0\Aufgabe31.deps.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe31\bin\Debug\net8.0\Aufgabe31.runtimeconfig.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe31\bin\Debug\net8.0\Aufgabe31.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe31\bin\Debug\net8.0\Aufgabe31.pdb
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe31\obj\Debug\net8.0\Aufgabe31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe31\obj\Debug\net8.0\Aufgabe31.AssemblyInfoInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe31\obj\Debug\net8.0\Aufgabe31.AssemblyInfo.cs
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe31\obj\Debug\net8.0\Aufgabe31.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe31\obj\Debug\net8.0\Aufgabe31.sourcelink.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe31\obj\Debug\net8.0\Aufgabe31.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe31\obj\Debug\net8.0\refint\Aufgabe31.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe31\obj\Debug\net8.0\Aufgabe31.pdb
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe31\obj\Debug\net8.0\Aufgabe31.genruntimeconfig.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe31\obj\Debug\net8.0\ref\Aufgabe31.dll

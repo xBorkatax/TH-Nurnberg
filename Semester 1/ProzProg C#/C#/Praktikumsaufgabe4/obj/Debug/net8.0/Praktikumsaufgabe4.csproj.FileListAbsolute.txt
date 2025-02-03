@@ -1,0 +1,15 @@
+C:\Users\Neychev\Desktop\C#\C#\Praktikumsaufgabe4\bin\Debug\net8.0\Praktikumsaufgabe4.exe
+C:\Users\Neychev\Desktop\C#\C#\Praktikumsaufgabe4\bin\Debug\net8.0\Praktikumsaufgabe4.deps.json
+C:\Users\Neychev\Desktop\C#\C#\Praktikumsaufgabe4\bin\Debug\net8.0\Praktikumsaufgabe4.runtimeconfig.json
+C:\Users\Neychev\Desktop\C#\C#\Praktikumsaufgabe4\bin\Debug\net8.0\Praktikumsaufgabe4.dll
+C:\Users\Neychev\Desktop\C#\C#\Praktikumsaufgabe4\bin\Debug\net8.0\Praktikumsaufgabe4.pdb
+C:\Users\Neychev\Desktop\C#\C#\Praktikumsaufgabe4\obj\Debug\net8.0\Praktikumsaufgabe4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\Desktop\C#\C#\Praktikumsaufgabe4\obj\Debug\net8.0\Praktikumsaufgabe4.AssemblyInfoInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Praktikumsaufgabe4\obj\Debug\net8.0\Praktikumsaufgabe4.AssemblyInfo.cs
+C:\Users\Neychev\Desktop\C#\C#\Praktikumsaufgabe4\obj\Debug\net8.0\Praktikumsaufgabe4.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Praktikumsaufgabe4\obj\Debug\net8.0\Praktikumsaufgabe4.sourcelink.json
+C:\Users\Neychev\Desktop\C#\C#\Praktikumsaufgabe4\obj\Debug\net8.0\Praktikumsaufgabe4.dll
+C:\Users\Neychev\Desktop\C#\C#\Praktikumsaufgabe4\obj\Debug\net8.0\refint\Praktikumsaufgabe4.dll
+C:\Users\Neychev\Desktop\C#\C#\Praktikumsaufgabe4\obj\Debug\net8.0\Praktikumsaufgabe4.pdb
+C:\Users\Neychev\Desktop\C#\C#\Praktikumsaufgabe4\obj\Debug\net8.0\Praktikumsaufgabe4.genruntimeconfig.cache
+C:\Users\Neychev\Desktop\C#\C#\Praktikumsaufgabe4\obj\Debug\net8.0\ref\Praktikumsaufgabe4.dll

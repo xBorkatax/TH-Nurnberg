@@ -1,0 +1,10 @@
+add $t0,$a0,$zero 
+add $t1,$a1,$zero
+addi $t2,$zero,12
+mult $t1,$t2
+mflo $t1 
+sub $t0,$t0,$t1 
+addi $t0,$t0,-10 
+addi $t2,$zero,5 
+div $t0,$t2 
+mflo $v0 

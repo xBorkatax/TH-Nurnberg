@@ -1,0 +1,8 @@
+2023-01-01 08:15:23 myshop.de/product/abc123 200 OK
+2023-01-01 09:22:45 bestdeal.de/item/xyz789 200 OK
+2023-02-01 10:30:12 topgadget.de/product/123abc 200 OK
+2023-03-01 11:45:56 myshop.de/product/def456 200 OK
+2023-04-01 12:55:32 bestdeal.de/item/789xyz 200 OK
+2023-04-01 13:12:10 topgadget.de/product/456def 404 Not Found
+2023-05-01 14:28:45 myshop.de/product/ghi789 200 OK
+2023-06-01 15:40:21 bestdeal.de/item/123abc 200 OK

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neychev\\Desktop\\ProzProg\\09.10.2024 \u00DCbung\\09.10.2024 \u00DCbung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F75CBA-2F6A-409A-B19C-06BB52C61C6A}|Aufgabe_10.2\\Aufgabe_10.2.csproj|c:\\users\\neychev\\desktop\\prozprog\\09.10.2024 \u00FCbung\\09.10.2024 \u00FCbung\\aufgabe_10.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F75CBA-2F6A-409A-B19C-06BB52C61C6A}|Aufgabe_10.2\\Aufgabe_10.2.csproj|solutionrelative:aufgabe_10.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F75CBA-2F6A-409A-B19C-06BB52C61C6A}|Aufgabe_10.2\\Aufgabe_10.2.csproj|c:\\users\\neychev\\desktop\\prozprog\\09.10.2024 \u00FCbung\\09.10.2024 \u00FCbung\\aufgabe_10.2\\umsatz.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C7F75CBA-2F6A-409A-B19C-06BB52C61C6A}|Aufgabe_10.2\\Aufgabe_10.2.csproj|solutionrelative:aufgabe_10.2\\umsatz.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E060F2FF-2339-41B7-B210-896C03FF94F3}|Praktukum\\Praktukum.csproj|c:\\users\\neychev\\desktop\\prozprog\\09.10.2024 \u00FCbung\\09.10.2024 \u00FCbung\\praktukum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E060F2FF-2339-41B7-B210-896C03FF94F3}|Praktukum\\Praktukum.csproj|solutionrelative:praktukum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06F91C9-BB60-4DB1-A25A-C1D887796E0E}|MyVersion\\MyVersion.csproj|c:\\users\\neychev\\desktop\\prozprog\\09.10.2024 \u00FCbung\\09.10.2024 \u00FCbung\\myversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06F91C9-BB60-4DB1-A25A-C1D887796E0E}|MyVersion\\MyVersion.csproj|solutionrelative:myversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06F91C9-BB60-4DB1-A25A-C1D887796E0E}|MyVersion\\MyVersion.csproj|c:\\users\\neychev\\desktop\\prozprog\\09.10.2024 \u00FCbung\\09.10.2024 \u00FCbung\\myversion\\kafka_verwandlung.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F06F91C9-BB60-4DB1-A25A-C1D887796E0E}|MyVersion\\MyVersion.csproj|solutionrelative:myversion\\kafka_verwandlung.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06F91C9-BB60-4DB1-A25A-C1D887796E0E}|MyVersion\\MyVersion.csproj|c:\\users\\neychev\\desktop\\prozprog\\09.10.2024 \u00FCbung\\09.10.2024 \u00FCbung\\myversion\\demo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F06F91C9-BB60-4DB1-A25A-C1D887796E0E}|MyVersion\\MyVersion.csproj|solutionrelative:myversion\\demo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\ProzProg\\09.10.2024 \u00DCbung\\09.10.2024 \u00DCbung\\Praktukum\\Program.cs",
+              "RelativeDocumentMoniker": "Praktukum\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\ProzProg\\09.10.2024 \u00DCbung\\09.10.2024 \u00DCbung\\Praktukum\\Program.cs",
+              "RelativeToolTip": "Praktukum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:26:51.631Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "umsatz.txt",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\ProzProg\\09.10.2024 \u00DCbung\\09.10.2024 \u00DCbung\\Aufgabe_10.2\\umsatz.txt",
+              "RelativeDocumentMoniker": "Aufgabe_10.2\\umsatz.txt",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\ProzProg\\09.10.2024 \u00DCbung\\09.10.2024 \u00DCbung\\Aufgabe_10.2\\umsatz.txt",
+              "RelativeToolTip": "Aufgabe_10.2\\umsatz.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-18T13:16:40.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\ProzProg\\09.10.2024 \u00DCbung\\09.10.2024 \u00DCbung\\Aufgabe_10.2\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe_10.2\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\ProzProg\\09.10.2024 \u00DCbung\\09.10.2024 \u00DCbung\\Aufgabe_10.2\\Program.cs",
+              "RelativeToolTip": "Aufgabe_10.2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:15:54.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kafka_verwandlung.txt",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\ProzProg\\09.10.2024 \u00DCbung\\09.10.2024 \u00DCbung\\MyVersion\\kafka_verwandlung.txt",
+              "RelativeDocumentMoniker": "MyVersion\\kafka_verwandlung.txt",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\ProzProg\\09.10.2024 \u00DCbung\\09.10.2024 \u00DCbung\\MyVersion\\kafka_verwandlung.txt",
+              "RelativeToolTip": "MyVersion\\kafka_verwandlung.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-18T12:36:37.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "demo.txt",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\ProzProg\\09.10.2024 \u00DCbung\\09.10.2024 \u00DCbung\\MyVersion\\demo.txt",
+              "RelativeDocumentMoniker": "MyVersion\\demo.txt",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\ProzProg\\09.10.2024 \u00DCbung\\09.10.2024 \u00DCbung\\MyVersion\\demo.txt",
+              "RelativeToolTip": "MyVersion\\demo.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-18T12:32:55.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\ProzProg\\09.10.2024 \u00DCbung\\09.10.2024 \u00DCbung\\MyVersion\\Program.cs",
+              "RelativeDocumentMoniker": "MyVersion\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\ProzProg\\09.10.2024 \u00DCbung\\09.10.2024 \u00DCbung\\MyVersion\\Program.cs",
+              "RelativeToolTip": "MyVersion\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:26:49.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

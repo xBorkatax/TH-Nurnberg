@@ -1,0 +1,15 @@
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe23\bin\Debug\net8.0\Aufgabe23.exe
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe23\bin\Debug\net8.0\Aufgabe23.deps.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe23\bin\Debug\net8.0\Aufgabe23.runtimeconfig.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe23\bin\Debug\net8.0\Aufgabe23.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe23\bin\Debug\net8.0\Aufgabe23.pdb
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe23\obj\Debug\net8.0\Aufgabe23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe23\obj\Debug\net8.0\Aufgabe23.AssemblyInfoInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe23\obj\Debug\net8.0\Aufgabe23.AssemblyInfo.cs
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe23\obj\Debug\net8.0\Aufgabe23.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe23\obj\Debug\net8.0\Aufgabe23.sourcelink.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe23\obj\Debug\net8.0\Aufgabe23.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe23\obj\Debug\net8.0\refint\Aufgabe23.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe23\obj\Debug\net8.0\Aufgabe23.pdb
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe23\obj\Debug\net8.0\Aufgabe23.genruntimeconfig.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe23\obj\Debug\net8.0\ref\Aufgabe23.dll

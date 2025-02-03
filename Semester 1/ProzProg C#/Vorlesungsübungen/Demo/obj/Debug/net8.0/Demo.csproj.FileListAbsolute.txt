@@ -1,0 +1,14 @@
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Demo\bin\Debug\net8.0\Demo.exe
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Demo\bin\Debug\net8.0\Demo.deps.json
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Demo\bin\Debug\net8.0\Demo.dll
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Demo\bin\Debug\net8.0\Demo.pdb
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Demo\obj\Debug\net8.0\Demo.dll
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Demo\obj\Debug\net8.0\refint\Demo.dll
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Demo\obj\Debug\net8.0\Demo.pdb
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Demo\obj\Debug\net8.0\ref\Demo.dll

@@ -1,0 +1,15 @@
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe1\bin\Debug\net8.0\Aufgabe1.exe
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe1\bin\Debug\net8.0\Aufgabe1.deps.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe1\bin\Debug\net8.0\Aufgabe1.runtimeconfig.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe1\bin\Debug\net8.0\Aufgabe1.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe1\bin\Debug\net8.0\Aufgabe1.pdb
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe1\obj\Debug\net8.0\Aufgabe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe1\obj\Debug\net8.0\Aufgabe1.AssemblyInfoInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe1\obj\Debug\net8.0\Aufgabe1.AssemblyInfo.cs
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe1\obj\Debug\net8.0\Aufgabe1.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe1\obj\Debug\net8.0\Aufgabe1.sourcelink.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe1\obj\Debug\net8.0\Aufgabe1.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe1\obj\Debug\net8.0\refint\Aufgabe1.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe1\obj\Debug\net8.0\Aufgabe1.pdb
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe1\obj\Debug\net8.0\Aufgabe1.genruntimeconfig.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe1\obj\Debug\net8.0\ref\Aufgabe1.dll

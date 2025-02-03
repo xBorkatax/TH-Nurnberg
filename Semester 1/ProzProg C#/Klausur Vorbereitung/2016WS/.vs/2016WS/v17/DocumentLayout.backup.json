@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neychev\\Desktop\\Klausur Vorbereitung C#\\2016WS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9972186-053A-4721-A606-18883CA210F8}|Aufgabe4\\Aufgabe4.csproj|c:\\users\\neychev\\desktop\\klausur vorbereitung c#\\2016ws\\aufgabe4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9972186-053A-4721-A606-18883CA210F8}|Aufgabe4\\Aufgabe4.csproj|solutionrelative:aufgabe4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Neychev\\AppData\\Local\\Temp\\1b95dd21-5819-4b0b-9325-cc429781335f_assembly-code-beispiele (4).zip.35f\\asm-demo-lecture9\\decrement-loop.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Neychev\\Desktop\\MIPS R2000\\unknown (13).s||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "decrement-loop.asm",
+              "DocumentMoniker": "C:\\Users\\Neychev\\AppData\\Local\\Temp\\1b95dd21-5819-4b0b-9325-cc429781335f_assembly-code-beispiele (4).zip.35f\\asm-demo-lecture9\\decrement-loop.asm",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\1b95dd21-5819-4b0b-9325-cc429781335f_assembly-code-beispiele (4).zip.35f\\asm-demo-lecture9\\decrement-loop.asm",
+              "ToolTip": "C:\\Users\\Neychev\\AppData\\Local\\Temp\\1b95dd21-5819-4b0b-9325-cc429781335f_assembly-code-beispiele (4).zip.35f\\asm-demo-lecture9\\decrement-loop.asm",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\1b95dd21-5819-4b0b-9325-cc429781335f_assembly-code-beispiele (4).zip.35f\\asm-demo-lecture9\\decrement-loop.asm",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-15T14:45:00.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "unknown (13).s",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\MIPS R2000\\unknown (13).s",
+              "RelativeDocumentMoniker": "..\\..\\MIPS R2000\\unknown (13).s",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\MIPS R2000\\unknown (13).s",
+              "RelativeToolTip": "..\\..\\MIPS R2000\\unknown (13).s",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-15T11:18:28.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Klausur Vorbereitung C#\\2016WS\\Aufgabe4\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe4\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Klausur Vorbereitung C#\\2016WS\\Aufgabe4\\Program.cs",
+              "RelativeToolTip": "Aufgabe4\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T18:05:35.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

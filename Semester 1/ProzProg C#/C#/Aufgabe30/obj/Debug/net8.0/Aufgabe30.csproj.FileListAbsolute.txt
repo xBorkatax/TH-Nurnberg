@@ -1,0 +1,15 @@
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe30\bin\Debug\net8.0\Aufgabe30.exe
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe30\bin\Debug\net8.0\Aufgabe30.deps.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe30\bin\Debug\net8.0\Aufgabe30.runtimeconfig.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe30\bin\Debug\net8.0\Aufgabe30.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe30\bin\Debug\net8.0\Aufgabe30.pdb
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe30\obj\Debug\net8.0\Aufgabe30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe30\obj\Debug\net8.0\Aufgabe30.AssemblyInfoInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe30\obj\Debug\net8.0\Aufgabe30.AssemblyInfo.cs
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe30\obj\Debug\net8.0\Aufgabe30.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe30\obj\Debug\net8.0\Aufgabe30.sourcelink.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe30\obj\Debug\net8.0\Aufgabe30.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe30\obj\Debug\net8.0\refint\Aufgabe30.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe30\obj\Debug\net8.0\Aufgabe30.pdb
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe30\obj\Debug\net8.0\Aufgabe30.genruntimeconfig.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe30\obj\Debug\net8.0\ref\Aufgabe30.dll

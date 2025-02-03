@@ -1,0 +1,15 @@
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe33\bin\Debug\net8.0\Aufgabe33.exe
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe33\bin\Debug\net8.0\Aufgabe33.deps.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe33\bin\Debug\net8.0\Aufgabe33.runtimeconfig.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe33\bin\Debug\net8.0\Aufgabe33.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe33\bin\Debug\net8.0\Aufgabe33.pdb
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe33\obj\Debug\net8.0\Aufgabe33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe33\obj\Debug\net8.0\Aufgabe33.AssemblyInfoInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe33\obj\Debug\net8.0\Aufgabe33.AssemblyInfo.cs
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe33\obj\Debug\net8.0\Aufgabe33.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe33\obj\Debug\net8.0\Aufgabe33.sourcelink.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe33\obj\Debug\net8.0\Aufgabe33.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe33\obj\Debug\net8.0\refint\Aufgabe33.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe33\obj\Debug\net8.0\Aufgabe33.pdb
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe33\obj\Debug\net8.0\Aufgabe33.genruntimeconfig.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe33\obj\Debug\net8.0\ref\Aufgabe33.dll

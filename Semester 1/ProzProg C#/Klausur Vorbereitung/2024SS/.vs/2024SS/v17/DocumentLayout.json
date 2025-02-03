@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neychev\\Desktop\\Klausur Vorbereitung C#\\2024SS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30D85E42-698D-4B0B-A51F-498CA757A78A}|2024SS\\Aufgabe1.csproj|c:\\users\\neychev\\desktop\\klausur vorbereitung c#\\2024ss\\2024ss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D85E42-698D-4B0B-A51F-498CA757A78A}|2024SS\\Aufgabe1.csproj|solutionrelative:2024ss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9552296E-D92E-494B-B96F-A70D63AC439A}|Aufgabe2\\Aufgabe2.csproj|c:\\users\\neychev\\desktop\\klausur vorbereitung c#\\2024ss\\aufgabe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9552296E-D92E-494B-B96F-A70D63AC439A}|Aufgabe2\\Aufgabe2.csproj|solutionrelative:aufgabe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5B8BCC-40C7-475E-AD6F-20E5353765F4}|Aufgabe4\\Aufgabe4.csproj|c:\\users\\neychev\\desktop\\klausur vorbereitung c#\\2024ss\\aufgabe4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5B8BCC-40C7-475E-AD6F-20E5353765F4}|Aufgabe4\\Aufgabe4.csproj|solutionrelative:aufgabe4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25B165E-BCB1-4633-ADCC-01B2A908DDC3}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\neychev\\desktop\\klausur vorbereitung c#\\2024ss\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25B165E-BCB1-4633-ADCC-01B2A908DDC3}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624EA743-A0BE-4A24-9D17-51F2C9D183A1}|Aufgabe3\\Aufgabe3.csproj|c:\\users\\neychev\\desktop\\klausur vorbereitung c#\\2024ss\\aufgabe3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624EA743-A0BE-4A24-9D17-51F2C9D183A1}|Aufgabe3\\Aufgabe3.csproj|solutionrelative:aufgabe3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Klausur Vorbereitung C#\\2024SS\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Klausur Vorbereitung C#\\2024SS\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:19:52.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Klausur Vorbereitung C#\\2024SS\\Aufgabe4\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe4\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Klausur Vorbereitung C#\\2024SS\\Aufgabe4\\Program.cs",
+              "RelativeToolTip": "Aufgabe4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T19:10:10.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Klausur Vorbereitung C#\\2024SS\\Aufgabe3\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe3\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Klausur Vorbereitung C#\\2024SS\\Aufgabe3\\Program.cs",
+              "RelativeToolTip": "Aufgabe3\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T18:43:33.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Klausur Vorbereitung C#\\2024SS\\Aufgabe2\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe2\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Klausur Vorbereitung C#\\2024SS\\Aufgabe2\\Program.cs",
+              "RelativeToolTip": "Aufgabe2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:30:06.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Klausur Vorbereitung C#\\2024SS\\2024SS\\Program.cs",
+              "RelativeDocumentMoniker": "2024SS\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Klausur Vorbereitung C#\\2024SS\\2024SS\\Program.cs",
+              "RelativeToolTip": "2024SS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:16:52.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

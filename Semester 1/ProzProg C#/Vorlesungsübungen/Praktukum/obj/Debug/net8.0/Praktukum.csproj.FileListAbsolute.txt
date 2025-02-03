@@ -1,0 +1,14 @@
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Praktukum\bin\Debug\net8.0\Praktukum.exe
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Praktukum\bin\Debug\net8.0\Praktukum.deps.json
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Praktukum\bin\Debug\net8.0\Praktukum.runtimeconfig.json
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Praktukum\bin\Debug\net8.0\Praktukum.dll
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Praktukum\bin\Debug\net8.0\Praktukum.pdb
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Praktukum\obj\Debug\net8.0\Praktukum.GeneratedMSBuildEditorConfig.editorconfig
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Praktukum\obj\Debug\net8.0\Praktukum.AssemblyInfoInputs.cache
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Praktukum\obj\Debug\net8.0\Praktukum.AssemblyInfo.cs
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Praktukum\obj\Debug\net8.0\Praktukum.csproj.CoreCompileInputs.cache
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Praktukum\obj\Debug\net8.0\Praktukum.dll
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Praktukum\obj\Debug\net8.0\refint\Praktukum.dll
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Praktukum\obj\Debug\net8.0\Praktukum.pdb
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Praktukum\obj\Debug\net8.0\Praktukum.genruntimeconfig.cache
+Z:\profile.V6\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Praktukum\obj\Debug\net8.0\ref\Praktukum.dll

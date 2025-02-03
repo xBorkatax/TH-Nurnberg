@@ -1,0 +1,14 @@
+C:\Users\neychevbo100555\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_5.1\bin\Debug\net8.0\Aufgabe_5.1.exe
+C:\Users\neychevbo100555\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_5.1\bin\Debug\net8.0\Aufgabe_5.1.deps.json
+C:\Users\neychevbo100555\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_5.1\bin\Debug\net8.0\Aufgabe_5.1.runtimeconfig.json
+C:\Users\neychevbo100555\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_5.1\bin\Debug\net8.0\Aufgabe_5.1.dll
+C:\Users\neychevbo100555\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_5.1\bin\Debug\net8.0\Aufgabe_5.1.pdb
+C:\Users\neychevbo100555\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_5.1\obj\Debug\net8.0\Aufgabe_5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neychevbo100555\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_5.1\obj\Debug\net8.0\Aufgabe_5.1.AssemblyInfoInputs.cache
+C:\Users\neychevbo100555\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_5.1\obj\Debug\net8.0\Aufgabe_5.1.AssemblyInfo.cs
+C:\Users\neychevbo100555\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_5.1\obj\Debug\net8.0\Aufgabe_5.1.csproj.CoreCompileInputs.cache
+C:\Users\neychevbo100555\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_5.1\obj\Debug\net8.0\Aufgabe_5.1.dll
+C:\Users\neychevbo100555\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_5.1\obj\Debug\net8.0\refint\Aufgabe_5.1.dll
+C:\Users\neychevbo100555\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_5.1\obj\Debug\net8.0\Aufgabe_5.1.pdb
+C:\Users\neychevbo100555\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_5.1\obj\Debug\net8.0\Aufgabe_5.1.genruntimeconfig.cache
+C:\Users\neychevbo100555\source\repos\ProzProg\09.10.2024 Übung\09.10.2024 Übung\Aufgabe_5.1\obj\Debug\net8.0\ref\Aufgabe_5.1.dll

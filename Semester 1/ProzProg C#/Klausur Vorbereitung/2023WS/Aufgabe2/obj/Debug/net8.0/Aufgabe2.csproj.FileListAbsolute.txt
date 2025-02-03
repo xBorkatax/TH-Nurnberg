@@ -1,0 +1,15 @@
+C:\Users\Neychev\Desktop\Klausur Vorbereitung C#\2023WS\Aufgabe2\bin\Debug\net8.0\Aufgabe2.exe
+C:\Users\Neychev\Desktop\Klausur Vorbereitung C#\2023WS\Aufgabe2\bin\Debug\net8.0\Aufgabe2.deps.json
+C:\Users\Neychev\Desktop\Klausur Vorbereitung C#\2023WS\Aufgabe2\bin\Debug\net8.0\Aufgabe2.runtimeconfig.json
+C:\Users\Neychev\Desktop\Klausur Vorbereitung C#\2023WS\Aufgabe2\bin\Debug\net8.0\Aufgabe2.dll
+C:\Users\Neychev\Desktop\Klausur Vorbereitung C#\2023WS\Aufgabe2\bin\Debug\net8.0\Aufgabe2.pdb
+C:\Users\Neychev\Desktop\Klausur Vorbereitung C#\2023WS\Aufgabe2\obj\Debug\net8.0\Aufgabe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\Desktop\Klausur Vorbereitung C#\2023WS\Aufgabe2\obj\Debug\net8.0\Aufgabe2.AssemblyInfoInputs.cache
+C:\Users\Neychev\Desktop\Klausur Vorbereitung C#\2023WS\Aufgabe2\obj\Debug\net8.0\Aufgabe2.AssemblyInfo.cs
+C:\Users\Neychev\Desktop\Klausur Vorbereitung C#\2023WS\Aufgabe2\obj\Debug\net8.0\Aufgabe2.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\Desktop\Klausur Vorbereitung C#\2023WS\Aufgabe2\obj\Debug\net8.0\Aufgabe2.sourcelink.json
+C:\Users\Neychev\Desktop\Klausur Vorbereitung C#\2023WS\Aufgabe2\obj\Debug\net8.0\Aufgabe2.dll
+C:\Users\Neychev\Desktop\Klausur Vorbereitung C#\2023WS\Aufgabe2\obj\Debug\net8.0\refint\Aufgabe2.dll
+C:\Users\Neychev\Desktop\Klausur Vorbereitung C#\2023WS\Aufgabe2\obj\Debug\net8.0\Aufgabe2.pdb
+C:\Users\Neychev\Desktop\Klausur Vorbereitung C#\2023WS\Aufgabe2\obj\Debug\net8.0\Aufgabe2.genruntimeconfig.cache
+C:\Users\Neychev\Desktop\Klausur Vorbereitung C#\2023WS\Aufgabe2\obj\Debug\net8.0\ref\Aufgabe2.dll

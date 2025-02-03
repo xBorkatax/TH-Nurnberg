@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aufgabe34/1.0.0": {
+        "runtime": {
+          "Aufgabe34.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aufgabe34/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

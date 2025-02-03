@@ -1,0 +1,15 @@
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe24\bin\Debug\net8.0\Aufgabe24.exe
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe24\bin\Debug\net8.0\Aufgabe24.deps.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe24\bin\Debug\net8.0\Aufgabe24.runtimeconfig.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe24\bin\Debug\net8.0\Aufgabe24.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe24\bin\Debug\net8.0\Aufgabe24.pdb
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe24\obj\Debug\net8.0\Aufgabe24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe24\obj\Debug\net8.0\Aufgabe24.AssemblyInfoInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe24\obj\Debug\net8.0\Aufgabe24.AssemblyInfo.cs
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe24\obj\Debug\net8.0\Aufgabe24.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe24\obj\Debug\net8.0\Aufgabe24.sourcelink.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe24\obj\Debug\net8.0\Aufgabe24.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe24\obj\Debug\net8.0\refint\Aufgabe24.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe24\obj\Debug\net8.0\Aufgabe24.pdb
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe24\obj\Debug\net8.0\Aufgabe24.genruntimeconfig.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe24\obj\Debug\net8.0\ref\Aufgabe24.dll

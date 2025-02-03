@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F07F8637-765D-4C49-B477-7835774171F6}|Praktikumsaufgabe3\\Praktikumsaufgabe3.csproj|c:\\users\\neychev\\desktop\\c#\\c#\\praktikumsaufgabe3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07F8637-765D-4C49-B477-7835774171F6}|Praktikumsaufgabe3\\Praktikumsaufgabe3.csproj|solutionrelative:praktikumsaufgabe3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB4BF73-A195-4E73-B385-8DF9CCEF1100}|Aufgabe42\\Aufgabe42.csproj|c:\\users\\neychev\\desktop\\c#\\c#\\aufgabe42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB4BF73-A195-4E73-B385-8DF9CCEF1100}|Aufgabe42\\Aufgabe42.csproj|solutionrelative:aufgabe42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEE614E-8650-4330-AE7F-A9EA156A14CF}|Aufgabe41\\Aufgabe41.csproj|c:\\users\\neychev\\desktop\\c#\\c#\\aufgabe41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEE614E-8650-4330-AE7F-A9EA156A14CF}|Aufgabe41\\Aufgabe41.csproj|solutionrelative:aufgabe41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F8FF9B-D679-4BB5-AC91-B88FC124599F}|Aufgabe40\\Aufgabe40.csproj|c:\\users\\neychev\\desktop\\c#\\c#\\aufgabe40\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F8FF9B-D679-4BB5-AC91-B88FC124599F}|Aufgabe40\\Aufgabe40.csproj|solutionrelative:aufgabe40\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95987D8E-D2E3-4F4B-985B-BE967F0DABA8}|Aufgabe39\\Aufgabe39.csproj|c:\\users\\neychev\\desktop\\c#\\c#\\aufgabe39\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95987D8E-D2E3-4F4B-985B-BE967F0DABA8}|Aufgabe39\\Aufgabe39.csproj|solutionrelative:aufgabe39\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60EC584-1E3F-4B94-A4DC-0F3A81662CBE}|Aufgabe38\\Aufgabe38.csproj|c:\\users\\neychev\\desktop\\c#\\c#\\aufgabe38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60EC584-1E3F-4B94-A4DC-0F3A81662CBE}|Aufgabe38\\Aufgabe38.csproj|solutionrelative:aufgabe38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5EE8E1-7773-4C10-B530-620C36234F80}|Aufgabe37\\Aufgabe37.csproj|c:\\users\\neychev\\desktop\\c#\\c#\\aufgabe37\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5EE8E1-7773-4C10-B530-620C36234F80}|Aufgabe37\\Aufgabe37.csproj|solutionrelative:aufgabe37\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C51EDB-141C-4030-9C4D-33AE9FBB9F97}|Aufgabe36\\Aufgabe36.csproj|c:\\users\\neychev\\desktop\\c#\\c#\\aufgabe36\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C51EDB-141C-4030-9C4D-33AE9FBB9F97}|Aufgabe36\\Aufgabe36.csproj|solutionrelative:aufgabe36\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B229F722-62D0-4BB5-9217-4D7061F87F85}|Aufgabe35\\Aufgabe35.csproj|c:\\users\\neychev\\desktop\\c#\\c#\\aufgabe35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B229F722-62D0-4BB5-9217-4D7061F87F85}|Aufgabe35\\Aufgabe35.csproj|solutionrelative:aufgabe35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127B4540-4A1B-46AA-B07D-4CE04966783C}|Aufgabe32\\Aufgabe32.csproj|c:\\users\\neychev\\desktop\\c#\\c#\\aufgabe32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127B4540-4A1B-46AA-B07D-4CE04966783C}|Aufgabe32\\Aufgabe32.csproj|solutionrelative:aufgabe32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010992A0-1764-4ABE-8E30-9AD3BD0FAC42}|Aufgabe27\\Aufgabe27.csproj|c:\\users\\neychev\\desktop\\c#\\c#\\aufgabe27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010992A0-1764-4ABE-8E30-9AD3BD0FAC42}|Aufgabe27\\Aufgabe27.csproj|solutionrelative:aufgabe27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FCEDBF-BE62-41A6-8D61-2B86F8AE7084}|Aufgabe26\\Aufgabe26.csproj|c:\\users\\neychev\\desktop\\c#\\c#\\aufgabe26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FCEDBF-BE62-41A6-8D61-2B86F8AE7084}|Aufgabe26\\Aufgabe26.csproj|solutionrelative:aufgabe26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD858BC-DA54-477B-8F75-37D0451B8623}|Aufgabe25\\Aufgabe25.csproj|c:\\users\\neychev\\desktop\\c#\\c#\\aufgabe25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD858BC-DA54-477B-8F75-37D0451B8623}|Aufgabe25\\Aufgabe25.csproj|solutionrelative:aufgabe25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69134AB1-4734-485B-8774-B56615AD74B5}|Aufgabe24\\Aufgabe24.csproj|c:\\users\\neychev\\desktop\\c#\\c#\\aufgabe24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69134AB1-4734-485B-8774-B56615AD74B5}|Aufgabe24\\Aufgabe24.csproj|solutionrelative:aufgabe24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49BE8E-9687-4954-B605-FB8410177750}|Aufgabe23\\Aufgabe23.csproj|c:\\users\\neychev\\desktop\\c#\\c#\\aufgabe23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E49BE8E-9687-4954-B605-FB8410177750}|Aufgabe23\\Aufgabe23.csproj|solutionrelative:aufgabe23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748C41B8-C5CF-406E-9394-0AEE5D8DCCE1}|Aufgabe9\\Aufgabe09.csproj|c:\\users\\neychev\\desktop\\c#\\c#\\aufgabe9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748C41B8-C5CF-406E-9394-0AEE5D8DCCE1}|Aufgabe9\\Aufgabe09.csproj|solutionrelative:aufgabe9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Praktikumsaufgabe3\\Program.cs",
+              "RelativeDocumentMoniker": "Praktikumsaufgabe3\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Praktikumsaufgabe3\\Program.cs",
+              "RelativeToolTip": "Praktikumsaufgabe3\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowCkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:31:10.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe25\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe25\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe25\\Program.cs",
+              "RelativeToolTip": "Aufgabe25\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:19:22.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe39\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe39\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe39\\Program.cs",
+              "RelativeToolTip": "Aufgabe39\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:43:38.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe38\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe38\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe38\\Program.cs",
+              "RelativeToolTip": "Aufgabe38\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T16:56:21.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe37\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe37\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe37\\Program.cs",
+              "RelativeToolTip": "Aufgabe37\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T15:52:32.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe36\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe36\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe36\\Program.cs",
+              "RelativeToolTip": "Aufgabe36\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T15:10:18.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe26\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe26\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe26\\Program.cs",
+              "RelativeToolTip": "Aufgabe26\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:40:49.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe24\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe24\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe24\\Program.cs",
+              "RelativeToolTip": "Aufgabe24\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:46:44.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe27\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe27\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe27\\Program.cs",
+              "RelativeToolTip": "Aufgabe27\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:25:39.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe32\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe32\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe32\\Program.cs",
+              "RelativeToolTip": "Aufgabe32\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:17:52.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe35\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe35\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe35\\Program.cs",
+              "RelativeToolTip": "Aufgabe35\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:12:51.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe40\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe40\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe40\\Program.cs",
+              "RelativeToolTip": "Aufgabe40\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:43:01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe41\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe41\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe41\\Program.cs",
+              "RelativeToolTip": "Aufgabe41\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:15:36.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe42\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe42\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe42\\Program.cs",
+              "RelativeToolTip": "Aufgabe42\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:51:09.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe23\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe23\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe23\\Program.cs",
+              "RelativeToolTip": "Aufgabe23\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:48:14.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe9\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabe9\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\C#\\C#\\Aufgabe9\\Program.cs",
+              "RelativeToolTip": "Aufgabe9\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:15:03.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

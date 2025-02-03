@@ -1,0 +1,15 @@
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe37\bin\Debug\net8.0\Aufgabe37.exe
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe37\bin\Debug\net8.0\Aufgabe37.deps.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe37\bin\Debug\net8.0\Aufgabe37.runtimeconfig.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe37\bin\Debug\net8.0\Aufgabe37.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe37\bin\Debug\net8.0\Aufgabe37.pdb
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe37\obj\Debug\net8.0\Aufgabe37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe37\obj\Debug\net8.0\Aufgabe37.AssemblyInfoInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe37\obj\Debug\net8.0\Aufgabe37.AssemblyInfo.cs
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe37\obj\Debug\net8.0\Aufgabe37.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe37\obj\Debug\net8.0\Aufgabe37.sourcelink.json
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe37\obj\Debug\net8.0\Aufgabe37.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe37\obj\Debug\net8.0\refint\Aufgabe37.dll
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe37\obj\Debug\net8.0\Aufgabe37.pdb
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe37\obj\Debug\net8.0\Aufgabe37.genruntimeconfig.cache
+C:\Users\Neychev\Desktop\C#\C#\Aufgabe37\obj\Debug\net8.0\ref\Aufgabe37.dll
